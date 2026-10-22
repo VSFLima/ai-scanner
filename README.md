@@ -12,6 +12,7 @@ Script Python que procura padrões de chaves de API de IA em código público, v
 ![Provedores](https://img.shields.io/badge/provedores-9-8B5CF6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-ferramenta-6e5494?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%40vsf__lima-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsf_lima)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 
 </div>
 
@@ -108,6 +109,16 @@ O script valida as chaves encontradas (quando há endpoint de validação) e imp
 ## 📌 Status
 
 Script standalone, sem suíte de testes automatizados. Feito para Termux/Kali e para uso em **pentest autorizado**. O `api_keys.json` incluído no repositório é um resultado de exemplo.
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Leia o [`CONTRIBUTING.md`](CONTRIBUTING.md). O projeto é open source sob a licença MIT.
+
+Para ferramentas de segurança: use apenas em alvos autorizados e **nunca** envie chaves, cookies, tokens ou achados reais em issues/PRs.
+
+## 📄 Licença
+
+Distribuído sob a licença **MIT**. Veja [`LICENSE`](LICENSE).
 
 ## 🙏 Créditos
 
